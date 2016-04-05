@@ -5,3 +5,4 @@
  * Date: 16/4/5
  * Time: 08:39
  */
+echo phpinfo();
