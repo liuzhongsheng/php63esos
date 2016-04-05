@@ -10,3 +10,8 @@
     SYSTEM_PATH  系统目录常量
     APP_PATH     应用目录路径常量
     APP_DEBUG    调试模式默认false
+    LIB_PATH     系统核心类库目录
+    CORE_PATH    框架类库
+    COMMON_PATH  公共模块目录
+    VENDOR_PATH  第三方类库目录
+    CONF_EXT     配置文件后缀
