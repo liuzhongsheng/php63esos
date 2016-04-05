@@ -9,3 +9,4 @@
 define('APP_PATH','./App/');
 //引入框架入口文件
 require './Bigcow/Bigcow.php';
+
